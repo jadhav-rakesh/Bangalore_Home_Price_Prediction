@@ -5,7 +5,7 @@ This project predicts home prices in Bangalore based on features like location, 
 
 The project consists of:
 - **Backend**: Flask application deployed on Render for serving predictions.
-- **Frontend**: Static website built using HTML, CSS, and JavaScript, hosted on [Netlify](https://bangalore-home-price-predictor.netlify.app/).
+- **Frontend**: Static website built using HTML, CSS, and JavaScript, hosted on [Netlify](https://bangalore-home-price-prediction.netlify.app/).
 
 ---
 
@@ -39,7 +39,7 @@ The project consists of:
   - Hosted on Render with Flask.
   - Model serialized using `pickle`.
 - **Frontend**:
-  - Hosted on Netlify: [Bangalore Home Price Predictor](https://bangalore-home-price-predictor.netlify.app/).
+  - Hosted on Netlify: [Bangalore Home Price Predictor](https://bangalore-home-price-prediction.netlify.app/).
   - Communicates with the backend API using JavaScript.
 
 ---
